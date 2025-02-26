@@ -1,8 +1,8 @@
 ## Olá! Seja bem-vindo!
 ### Meu nome é Pedro Rebechi e por aqui mostro meus projetos e estudos 💻
 
-![PedroHenriqueRebechi's Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueRebechi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![PedroHenriqueRebechi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueRebechi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![PedroHenriqueRebechi's Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueRebechi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueRebechi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=pt-br)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
