@@ -1,5 +1,5 @@
-## Olá! Seja bem-vindo!
-### Meu nome é Pedro Rebechi e por aqui mostro meus projetos e estudos 💻
+<h1 align="center">Olá! Seja bem-vindo!</h1>
+<h3> Meu nome é Pedro Rebechi e por aqui mostro meus projetos e estudos 💻</h3>
 
 ![PedroHenriqueRebechi's Stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueRebechi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueRebechi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=pt-br)
